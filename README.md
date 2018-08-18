@@ -1,0 +1,2 @@
+# tulusmint
+Repo ubuntu
